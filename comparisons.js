@@ -26,22 +26,27 @@ console.log("Is numberTeachers less then numberStudents?", numberTeachers < numb
 
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers?
 // this should log: false
+console.log("Is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers)
 
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
+console.log("IS the numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents)
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
+console.log("Is the number students greater than or equal to 20?", numberStudents >= 20)
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
+console.log("Is the numberStudents greater than or equal to 21?", numberStudents >= 21)
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 20?
 // this should log: true
+console.log("Is the numberStudents less than or equal to 20", numberStudents <= 20)
 
 // YOU DO: log the result of the comparison: is numberStudents less than or equal to 21?
 // this should log: true
-
+console.log("Is the numberStudents less than or equal to 21?", numberStudents <= 21)
 
 // #-------------------
 // PART 2: Articulating what you are doing
